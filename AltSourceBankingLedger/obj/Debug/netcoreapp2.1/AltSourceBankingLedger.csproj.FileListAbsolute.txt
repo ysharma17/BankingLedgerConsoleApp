@@ -1,0 +1,11 @@
+/Users/yoshita.as.sharma/Projects/AltSourceBankingLedger/AltSourceBankingLedger/bin/Debug/netcoreapp2.1/AltSourceBankingLedger.deps.json
+/Users/yoshita.as.sharma/Projects/AltSourceBankingLedger/AltSourceBankingLedger/bin/Debug/netcoreapp2.1/AltSourceBankingLedger.runtimeconfig.json
+/Users/yoshita.as.sharma/Projects/AltSourceBankingLedger/AltSourceBankingLedger/bin/Debug/netcoreapp2.1/AltSourceBankingLedger.runtimeconfig.dev.json
+/Users/yoshita.as.sharma/Projects/AltSourceBankingLedger/AltSourceBankingLedger/bin/Debug/netcoreapp2.1/AltSourceBankingLedger.dll
+/Users/yoshita.as.sharma/Projects/AltSourceBankingLedger/AltSourceBankingLedger/bin/Debug/netcoreapp2.1/AltSourceBankingLedger.pdb
+/Users/yoshita.as.sharma/Projects/AltSourceBankingLedger/AltSourceBankingLedger/obj/Debug/netcoreapp2.1/AltSourceBankingLedger.csproj.CoreCompileInputs.cache
+/Users/yoshita.as.sharma/Projects/AltSourceBankingLedger/AltSourceBankingLedger/obj/Debug/netcoreapp2.1/AltSourceBankingLedger.AssemblyInfoInputs.cache
+/Users/yoshita.as.sharma/Projects/AltSourceBankingLedger/AltSourceBankingLedger/obj/Debug/netcoreapp2.1/AltSourceBankingLedger.AssemblyInfo.cs
+/Users/yoshita.as.sharma/Projects/AltSourceBankingLedger/AltSourceBankingLedger/obj/Debug/netcoreapp2.1/AltSourceBankingLedger.dll
+/Users/yoshita.as.sharma/Projects/AltSourceBankingLedger/AltSourceBankingLedger/obj/Debug/netcoreapp2.1/AltSourceBankingLedger.pdb
+/Users/yoshita.as.sharma/Projects/AltSourceBankingLedger/AltSourceBankingLedger/obj/Debug/netcoreapp2.1/AltSourceBankingLedger.csprojResolveAssemblyReference.cache

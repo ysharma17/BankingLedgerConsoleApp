@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{FF7EBAD7-C0A7-4069-945D-6820E62A3828}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AltSourceBankingLedger PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
